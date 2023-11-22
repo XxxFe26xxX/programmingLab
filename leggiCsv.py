@@ -19,4 +19,3 @@ def sum_csv(my_file):
 my_file = "shampoo_sales.csv"
 print(sum_csv(my_file))
 
-
